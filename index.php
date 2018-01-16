@@ -1,4 +1,4 @@
 <?php
-echo 'Hello Git!!!';
-echo 'change from user2!!!';
+echo 'User1: Hello Git!!!';
+echo 'User2: change from user2!!!';
 ?>
